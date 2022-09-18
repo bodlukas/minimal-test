@@ -8,7 +8,7 @@ date: 2022-09-18
 classes: wide
 
 feature_row1:
-  - image_path: assets/images/thumbnail.png
+  - image_path: assets/images/research/Pollino_ShakeMapFrag.png
     alt: "RMGP"
     title: "RMGP: Dynamic updating of post-earthquake loss estimates"
     excerpt: 'Incorporate domain knowledge in Gaussian process regression. `type="left"`'
