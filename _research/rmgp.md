@@ -13,7 +13,11 @@ badsffsdf
 
 ...
 
+{% include figure image_path="/assets/images/research/ExampleGPR.png" alt="schema" caption="Gaussian process regression" %}
+
 ...
+
+
 
 ...
 
