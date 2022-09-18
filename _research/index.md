@@ -15,13 +15,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/thumbnail.png
-    alt: "SCM"
-    title: "Spatial ground-motion correlation models that account for path and site effects"
-    excerpt: "Derived using Bayesian inference."
-    url: "/portfolio/scm/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"	
-  - image_path: /assets/images/thumbnail.png
     alt: "exposure"
     title: "Incorporating uncertainties in building inventory information"
     excerpt: "For regional earthquake risk assessments."
