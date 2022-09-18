@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: https://bodlukas.github.io/about/
   - title: "Research"
-    url: /_research/
+    url: /research/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
