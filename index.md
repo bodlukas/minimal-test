@@ -3,6 +3,8 @@ title: "About me"
 layout: single
 author_profile: true
 permalink: /
+
+news: true  # includes a list of news items
 ---
 
 I am a doctoral student at [ETH Zurich](https://www.ethz.ch/). In my research, I use probabilistic modelling and data analytics to advance risk assessment for spatially distributed systems exposed to natural hazards such as earthquakes. This website provides a brief overview on some selected research projects. Parts of that work was conducted during a six-month stay at the [Stanford University](https://www.stanford.edu/) as a visiting student researcher.
