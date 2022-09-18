@@ -5,6 +5,7 @@ author_profile: true
 comments: false
 layout: single
 date: 2022-09-18
+classes: wide
 
 feature_row1:
   - image_path: assets/images/thumbnail.png
@@ -16,13 +17,6 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: assets/images/thumbnail.png
-    alt: "RMGP"
-    title: "RMGP: Dynamic updating of post-earthquake loss estimates"
-    excerpt: "Incorporate domain knowledge in Gaussian process regression."
-    url: "/research/rmgp/"
-    btn_label: "Read More"
-    btn_class: "btn--primary"	
   - image_path: /assets/images/thumbnail.png
     alt: "exposure"
     title: "Incorporating uncertainties in building inventory information"
@@ -43,7 +37,7 @@ documents at the top of each page, which offer more depth.
 
 ## Selected Projects
 
-{% include feature_row %}
+{% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
