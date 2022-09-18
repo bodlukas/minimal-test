@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research/index.md
+permalink: /research/
 author_profile: true
 comments: false
 layout: single
