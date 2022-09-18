@@ -6,7 +6,16 @@ comments: false
 layout: single
 date: 2022-09-18
 
-feature_row:
+feature_row1:
+  - image_path: assets/images/thumbnail.png
+    alt: "RMGP"
+    title: "RMGP: Dynamic updating of post-earthquake loss estimates"
+    excerpt: 'Incorporate domain knowledge in Gaussian process regression. `type="left"`'
+    url: "/research/rmgp/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
+feature_row2:
   - image_path: assets/images/thumbnail.png
     alt: "RMGP"
     title: "RMGP: Dynamic updating of post-earthquake loss estimates"
@@ -32,7 +41,9 @@ The discussion here is generally non-technical; for the research projects,
 related publications are linked in the corresponding files. There are also links to
 documents at the top of each page, which offer more depth. 
 
-<div style="margin-bottom:1cm" align="center"><font size="55">Selected Projects</font></div>
+## Selected Projects
 
 {% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
 
