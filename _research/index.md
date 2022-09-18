@@ -27,12 +27,7 @@ feature_row2:
 ---
 
 Here you'll find summaries of the major projects I've done over the years, which
-are representative of my skills and interests. These projects span everything
-from mathematical physics to machine learning, from finance to advertising, from
-the theoretical to the practical.
-
-The discussion here is generally non-technical; for the research projects,
-related publications are linked in the corresponding files. There are also links to
+are representative of my skills and interests. There are also links to
 documents at the top of each page, which offer more depth. 
 
 ## Selected Projects
