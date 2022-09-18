@@ -141,6 +141,17 @@ footer:
       icon: "fab fa-fw fa-gitlab"
       url: https://scholar.google.com/citations?user=sVoE3zwAAAAJ&hl=en
 
+collections:
+  news:
+    defaults:
+      layout: post
+    output: true
+    permalink: /news/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+news_limit: 10
 
 # Reading Files
 include:
