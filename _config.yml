@@ -121,7 +121,7 @@ author:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: https://scholar.google.com/citations?user=sVoE3zwAAAAJ&hl=en
 
 # Site Footer
 footer:
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: https://scholar.google.com/citations?user=sVoE3zwAAAAJ&hl=en
 
 
 # Reading Files
