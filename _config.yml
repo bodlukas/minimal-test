@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Lukas Bodenmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Doctoral student in Civil Engineering working on natural catastrophe risk modelling"
+  bio              : "Probabilistic modelling and data analytics to quantify natural disaster risks"
   location         : "Zurich, Switzerland"
   email            :
   links:
