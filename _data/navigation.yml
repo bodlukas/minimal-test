@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: https://bodlukas.github.io/about/
-  - title: "Portfolio"
-    url: https://bodlukas.github.io/portfolio/
+  - title: "Research"
+    url: /_research/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
