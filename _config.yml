@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Lukas Bodenmann"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Probabilistic modelling and data analytics to quantify natural disaster risks"
+  avatar           : "/assets/images/bio-photo-crop.jpg"
+  bio              : "Probabilistic modelling and data analytics"
   location         : "Zurich, Switzerland"
   email            :
   links:
