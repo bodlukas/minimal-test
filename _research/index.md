@@ -5,8 +5,6 @@ author_profile: true
 comments: false
 layout: single
 date: 2022-09-18
----
-
 
 feature_row:
   - image_path: assets/images/thumbnail.png
