@@ -122,7 +122,9 @@ author:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       url: https://scholar.google.com/citations?user=sVoE3zwAAAAJ&hl=en
-
+    - label: "orcid"
+      icon: "fab fa-fw fa-orcid"
+      url: https://orcid.org/0000-0002-7742-3306
 # Site Footer
 footer:
   links:
