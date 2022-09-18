@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Lukas Bodenmann"
-  avatar           : "/assets/images/bio-photo-crop2.jpg"
+  avatar           : "/assets/images/bio_photo_crop2.jpg"
   bio              : "Probabilistic modelling and data analytics"
   location         : "Zurich, Switzerland"
   email            :
