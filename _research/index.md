@@ -26,9 +26,7 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
-Here you'll find summaries of the major projects I've done over the years, which
-are representative of my skills and interests. There are also links to
-documents at the top of each page, which offer more depth. 
+Here you'll find summaries of the major research projects I've done over the years.
 
 ## Selected Projects
 
